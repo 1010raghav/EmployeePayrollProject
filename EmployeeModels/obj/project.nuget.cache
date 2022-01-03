@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q97lg6dyODinEarMYXVlOpkKzIUmK+LcChn6Q4D2bmdbIOnv1eI2VJ49U/+MuDgnDk5rwFNIpQN43kiLFDr81w==",
+  "success": true,
+  "projectFilePath": "E:\\CFP\\Employee Payroll\\EmployeeModels\\EmployeeModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Raghav\\.nuget\\packages\\experimental.system.messaging\\1.1.0\\experimental.system.messaging.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

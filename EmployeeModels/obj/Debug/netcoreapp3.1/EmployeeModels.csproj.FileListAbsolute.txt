@@ -1,0 +1,16 @@
+E:\CFP\Employee Payroll\EmployeeModels\obj\Debug\netcoreapp3.1\EmployeeModels.csproj.AssemblyReference.cache
+E:\CFP\Employee Payroll\EmployeeModels\obj\Debug\netcoreapp3.1\EmployeeModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\CFP\Employee Payroll\EmployeeModels\obj\Debug\netcoreapp3.1\EmployeeModels.AssemblyInfoInputs.cache
+E:\CFP\Employee Payroll\EmployeeModels\obj\Debug\netcoreapp3.1\EmployeeModels.AssemblyInfo.cs
+E:\CFP\Employee Payroll\EmployeeModels\obj\Debug\netcoreapp3.1\EmployeeModels.csproj.CoreCompileInputs.cache
+E:\CFP\Employee Payroll\EmployeeModels\bin\Debug\netcoreapp3.1\EmployeeModels.exe
+E:\CFP\Employee Payroll\EmployeeModels\bin\Debug\netcoreapp3.1\EmployeeModels.deps.json
+E:\CFP\Employee Payroll\EmployeeModels\bin\Debug\netcoreapp3.1\EmployeeModels.runtimeconfig.json
+E:\CFP\Employee Payroll\EmployeeModels\bin\Debug\netcoreapp3.1\EmployeeModels.runtimeconfig.dev.json
+E:\CFP\Employee Payroll\EmployeeModels\bin\Debug\netcoreapp3.1\EmployeeModels.dll
+E:\CFP\Employee Payroll\EmployeeModels\bin\Debug\netcoreapp3.1\EmployeeModels.pdb
+E:\CFP\Employee Payroll\EmployeeModels\bin\Debug\netcoreapp3.1\Experimental.System.Messaging.dll
+E:\CFP\Employee Payroll\EmployeeModels\obj\Debug\netcoreapp3.1\EmployeeModels.csproj.CopyComplete
+E:\CFP\Employee Payroll\EmployeeModels\obj\Debug\netcoreapp3.1\EmployeeModels.dll
+E:\CFP\Employee Payroll\EmployeeModels\obj\Debug\netcoreapp3.1\EmployeeModels.pdb
+E:\CFP\Employee Payroll\EmployeeModels\obj\Debug\netcoreapp3.1\EmployeeModels.genruntimeconfig.cache
